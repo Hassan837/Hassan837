@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Hassan
+## 👋 Hi there
 
 - 🔭 I’m currently working on frontend web development.
 - 🌱 I’m currently learning JS and Reactjs.
